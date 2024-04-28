@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|c:\\users\\dieg0\\source\\repos\\calculadoradecuotas\\calculadoradecuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|solutionrelative:calculadoradecuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|c:\\users\\dieg0\\source\\repos\\calculadoradecuotas\\calculadoradecuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|solutionrelative:calculadoradecuotas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|c:\\users\\dieg0\\source\\repos\\calculadoradecuotas\\calculadoradecuotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEEB5F3-5B92-4F3E-867D-88CF658AF30C}|CalculadoradeCuotas\\CalculadoradeCuotas.csproj|solutionrelative:calculadoradecuotas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoradeCuotas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculadoradeCuotas\\Form1.Designer.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAewIQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:10:33.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoradeCuotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.cs",
+              "RelativeToolTip": "CalculadoradeCuotas\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAywBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:10:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoradeCuotas\\Form1.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeCuotas\\CalculadoradeCuotas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoradeCuotas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:07:57.907Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

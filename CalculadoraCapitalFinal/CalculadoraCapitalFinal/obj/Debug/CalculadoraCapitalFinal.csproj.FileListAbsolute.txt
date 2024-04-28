@@ -1,0 +1,10 @@
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\bin\Debug\CalculadoraCapitalFinal.exe.config
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\bin\Debug\CalculadoraCapitalFinal.exe
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\bin\Debug\CalculadoraCapitalFinal.pdb
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.csproj.AssemblyReference.cache
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.Form1.resources
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.Properties.Resources.resources
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.csproj.GenerateResource.cache
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.exe
+C:\Users\dieg0\source\repos\CalculadoraCapitalFinal\CalculadoraCapitalFinal\obj\Debug\CalculadoraCapitalFinal.pdb

@@ -1,0 +1,10 @@
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\bin\Debug\CalculadoradeCuotas.exe.config
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\bin\Debug\CalculadoradeCuotas.exe
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\bin\Debug\CalculadoradeCuotas.pdb
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.csproj.AssemblyReference.cache
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.Form1.resources
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.Properties.Resources.resources
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.csproj.GenerateResource.cache
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.exe
+C:\Users\dieg0\source\repos\CalculadoradeCuotas\CalculadoradeCuotas\obj\Debug\CalculadoradeCuotas.pdb
